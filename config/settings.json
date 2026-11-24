@@ -1,0 +1,23 @@
+{
+  "module": "claude-session-pool",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "sessions": {
+      "enabled": true
+    },
+    "rotate": {
+      "enabled": true
+    },
+    "proxy": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
