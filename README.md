@@ -108,3 +108,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: claude-session-pool, token, pool, rotation, sessions, tool, anthropic, api, claude, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+claude token pool rotation sessions tool anthropic api claude-session-pool claude-pool-x claude-token-pool windows portable prebuilt x64 free download
+related: claude, token, pool, rotation, sessions, tool, anthropic, api
